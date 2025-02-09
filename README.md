@@ -1,2 +1,1 @@
-# aoc
-adventofcode.com
+[adventofcode.com](adventofcode.com)
